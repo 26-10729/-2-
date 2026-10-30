@@ -4,3 +4,5 @@
 .bench-actions{display:flex;gap:6px}.bench-actions .outline-btn{padding:6px 9px;font-size:9px}.bench{overflow:auto}.bench-slot{min-width:43px}
 
 @media(max-width:780px){.synergy{min-width:128px}.syn-name{white-space:nowrap}}
+
+.shop-odds-row{display:flex;align-items:center;gap:14px;margin-top:13px;padding:11px 0 3px;border-top:1px solid #33403b}.shop-odds-label{font-size:10px;color:#a6b3a8;white-space:nowrap;font-weight:700}.shop-odds{display:flex;flex-wrap:wrap;gap:7px 15px}.odds-item{display:inline-flex;align-items:center;gap:5px;color:#a6b5ac;font-size:10px;white-space:nowrap}.odds-item i{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--odds-color)}.odds-item b{font-size:11px;color:#e2d5b6;font-weight:700}@media(max-width:780px){.shop-odds-row{align-items:flex-start;flex-direction:column;gap:8px}.shop-odds{gap:8px 12px}}
